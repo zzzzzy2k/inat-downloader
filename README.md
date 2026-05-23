@@ -19,12 +19,29 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/get-bird-data.git
-cd get-bird-data
+git clone https://github.com/zzzzzy2k/inat-downloader.git
+cd inat-downloader
 
 # 安装依赖
 pip install -r requirements.txt
 ```
+
+## AI 辅助安装（推荐新手）
+
+如果你不熟悉 Python 环境配置，可以让 AI 帮你完成安装：
+
+1. 安装 [Claude Code](https://claude.ai/code) 或其他支持命令行的 AI 助手
+2. 打开终端，进入项目目录
+3. 输入以下提示词：
+
+```
+帮我安装这个项目的依赖并运行图形界面
+```
+
+AI 会自动帮你：
+- 检查 Python 环境
+- 安装所需依赖
+- 启动应用
 
 ## 图形界面（推荐）
 
